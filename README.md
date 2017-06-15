@@ -1,1 +1,2 @@
 # Brick-Breaker
+This is a miniature version of the popular blackberry game brick - breaker where a player must smash a wall of bricks by deflecting a bouncing ball with a bar. The paddle may move horizontally and is controlled by the computer's keyboard. This project was developed in high school as a computer science project and is coded in C++. The arrangement of the walls changes as you increase your level and the speed of the ball also increases as you clear more stages.  
